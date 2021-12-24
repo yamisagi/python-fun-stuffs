@@ -1,10 +1,11 @@
 # *Python-Fun-Stuffs* 
 
 
-# This repo is just for made me fun. Everything in here is test of my progress.
-# I will add *Python* files oftenly to see my improvement.
+ This repo is just for made me fun. Everything in here is test of my progress.
+ I will add *Python* files oftenly to see my improvement.
+  
 
-# run greetings.py 
+ run greetings.py 
 
 
 
